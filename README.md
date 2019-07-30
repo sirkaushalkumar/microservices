@@ -23,7 +23,7 @@ This will setup the application and you can continue to test the APIs:
 One can check few APIs using newman by running the following command
 
 ```bash
-newman run microservicescollection.json
+$ newman run microservicescollection.json
 ```
 
 A sample JSON is as follows:
