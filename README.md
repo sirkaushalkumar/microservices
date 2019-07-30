@@ -8,7 +8,7 @@ I am writing to inform this this is my first microservices assignment. To make u
 
 To clone the repository use the command:
 
-`git clone https://github.com/sirkaushalkumar/microservices.git`
+`$ git clone https://github.com/sirkaushalkumar/microservices.git`
 
 After Cloning follow the follow commands
 
