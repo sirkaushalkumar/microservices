@@ -178,5 +178,5 @@ A sample JSON is as follows:
 
 **Thanks for stopping by**
 
-I remain with thanks and regards, <br/>
-Kaushal Kumar
+<!-- I remain with thanks and regards, <br/>
+Kaushal Kumar -->
